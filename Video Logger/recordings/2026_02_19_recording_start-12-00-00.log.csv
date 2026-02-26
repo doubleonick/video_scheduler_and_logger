@@ -1,0 +1,8 @@
+ts_local,event,info
+2026-02-19T12:00:00,session_start,Scheduled 2026-02-20T12:00:00
+2026-02-19T12:00:01,camera_open,video=USB2.0 PC CAMERA 640x480@30
+2026-02-19T12:00:01,full_open,C:\Users\nilivingston\Documents\Video Logger\recordings\2026_02_19_recording_start-12-00-01.mp4
+2026-02-19T12:01:01,auto_stop,duration_reached 00:01:00
+2026-02-19T12:01:01,full_close,C:\Users\nilivingston\Documents\Video Logger\recordings\2026_02_19_recording_start-12-00-01.mp4
+2026-02-19T12:01:01,backup_skip,missing: E:\recordings_backup
+2026-02-19T12:01:01,session_end,frames=1800 duration=00:01:00
